@@ -1,0 +1,35 @@
+{
+	"id": 0,
+	"region": "Queensland",
+	"ava": [{
+		"id": 0,
+		"ava_id": "granite_belt",
+		"name": "Granite Belt",
+		"state": "Queensland",
+		"created": "2002-03-25",
+		"latSpan": 0.4914,
+		"lonSpan": 0.3235,
+		"latitude": -28.71763,
+		"longitude": 151.9142835
+	}, {
+		"id": 1,
+		"ava_id": "south_burnett",
+		"name": "South Burnett",
+		"state": "Queensland",
+		"created": "2000-12-08",
+		"latSpan": 1.0672,
+		"lonSpan": 1.0292,
+		"latitude": -26.465023,
+		"longitude": 151.7053645
+	}, {
+		"id": 2,
+		"ava_id": "queensland",
+		"name": "queensland",
+		"state": "Queensland",
+		"created": "2002-03-25",
+		"latSpan": 1.0672,
+		"lonSpan": 1.0292,
+		"latitude": -26.465023,
+		"longitude": 151.7053645
+	}]
+}

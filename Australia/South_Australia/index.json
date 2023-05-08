@@ -1,0 +1,295 @@
+{
+	"id": 0,
+	"region": "South_Australia",
+	"ava": [{
+		"id": 0,
+		"ava_id": "mount_gambier",
+		"name": "Mount Gambier",
+		"state": "South Australia",
+		"created": "2010-12-21",
+		"latSpan": 0.5969,
+		"lonSpan": 0.6125,
+		"latitude": -37.763036,
+		"longitude": 140.66768100000002
+	}, {
+		"id": 1,
+		"ava_id": "souuth_australia",
+		"name": "South Australia",
+		"state": "South Australia",
+		"created": "1994-01-26",
+		"latSpan": 7.3369,
+		"lonSpan": 12.0004,
+		"latitude": -29.664831,
+		"longitude": 135.002066
+	}, {
+		"id": 2,
+		"ava_id": "mclaren_vale",
+		"name": "McLaren Vale",
+		"state": "South Australia",
+		"created": "1997-09-02",
+		"latSpan": 0.3001,
+		"lonSpan": 0.2493,
+		"latitude": -35.198710500000004,
+		"longitude": 138.56609550000002
+	}, {
+		"id": 3,
+		"ava_id": "currency_creek",
+		"name": "Currency Creek",
+		"state": "South Australia",
+		"created": "2001-04-09",
+		"latSpan": 0.23,
+		"lonSpan": 0.3908,
+		"latitude": -35.4470245,
+		"longitude": 138.85247950000002
+	}, {
+		"id": 4,
+		"ava_id": "eden_valley",
+		"name": "Eden Valley",
+		"state": "South Australia",
+		"created": "1997-08-15",
+		"latSpan": 0.3681,
+		"lonSpan": 0.2562,
+		"latitude": -34.591494499999996,
+		"longitude": 139.06572849999998
+	}, {
+		"id": 5,
+		"ava_id": "barossa_valley",
+		"name": "Barossa Valley",
+		"state": "South Australia",
+		"created": "1997-08-15",
+		"latSpan": 0.3624,
+		"lonSpan": 0.2981,
+		"latitude": -34.531695,
+		"longitude": 138.97393499999998
+	}, {
+		"id": 6,
+		"ava_id": "langhorne_creek",
+		"name": "Langhorne Creek",
+		"state": "South Australia",
+		"created": "1998-10-16",
+		"latSpan": 0.1711,
+		"lonSpan": 0.235,
+		"latitude": -35.3199885,
+		"longitude": 139.03761550000002
+	}, {
+		"id": 7,
+		"ava_id": "Fleurieu",
+		"name": "Fleurieu",
+		"state": "South Australia",
+		"created": "1996-12-27",
+		"latSpan": 0.6994,
+		"lonSpan": 1.072,
+		"latitude": -35.3161945,
+		"longitude": 138.62855
+	}, {
+		"id": 8,
+		"ava_id": "riverland",
+		"name": "Riverland",
+		"state": "South Australia",
+		"created": "1998-12-10",
+		"latSpan": 0.5,
+		"lonSpan": 1.3833,
+		"latitude": -34.249987,
+		"longitude": 140.27500700000002
+	}, {
+		"id": 9,
+		"ava_id": "southern_flinders_ranges",
+		"name": "Southern Flinders Ranges",
+		"state": "South Australia",
+		"created": "2003-08-19",
+		"latSpan": 0.9302,
+		"lonSpan": 0.777,
+		"latitude": -33.005916,
+		"longitude": 138.304497
+	}, {
+		"id": 10,
+		"ava_id": "lower_murray",
+		"name": "Lower Murray",
+		"state": "South Australia",
+		"created": "1996-12-07",
+		"latSpan": 2.4935,
+		"lonSpan": 2.1227,
+		"latitude": -34.569014,
+		"longitude": 139.9414535
+	}, {
+		"id": 11,
+		"ava_id": "high_eden",
+		"name": "High Eden",
+		"state": "South Australia",
+		"created": "2001-08-21",
+		"latSpan": 0.0968,
+		"lonSpan": 0.0739,
+		"latitude": -34.6340795,
+		"longitude": 139.018255
+	}, {
+		"id": 12,
+		"ava_id": "the_peninsulas",
+		"name": "The Peninsulas",
+		"state": "South Australia",
+		"created": "1996-12-27",
+		"latSpan": 1.8669,
+		"lonSpan": 2.7975,
+		"latitude": -34.0643132,
+		"longitude": 135.99136605
+	}, {
+		"id": 13,
+		"ava_id": "robe",
+		"name": "Robe",
+		"state": "South Australia",
+		"created": "2006-08-15",
+		"latSpan": 0.5023,
+		"lonSpan": 0.445,
+		"latitude": -37.2413065,
+		"longitude": 139.96134949999998
+	}, {
+		"id": 14,
+		"ava_id": "padthaway",
+		"name": "Padthaway",
+		"state": "South Australia",
+		"created": "1999-11-29",
+		"latSpan": 0.4786,
+		"lonSpan": 0.3899,
+		"latitude": -36.7058575,
+		"longitude": 140.54386899999997
+	}, {
+		"id": 15,
+		"ava_id": "kangaroo_island",
+		"name": "Kangaroo Island",
+		"state": "South Australia",
+		"created": "2000-12-08",
+		"latSpan": 0.5146,
+		"lonSpan": 1.6023,
+		"latitude": -35.818396,
+		"longitude": 137.333561
+	}, {
+		"id": 16,
+		"ava_id": "southern_fleurieu",
+		"name": "Southern Fleurieu",
+		"state": "South Australia",
+		"created": "2001-06-06",
+		"latSpan": 0.4041,
+		"lonSpan": 0.6766,
+		"latitude": -35.463839,
+		"longitude": 138.431936
+	}, {
+		"id": 17,
+		"ava_id": "clare_valley",
+		"name": "Clare Valley",
+		"state": "South Australia",
+		"created": "1999-03-25",
+		"latSpan": 0.4011,
+		"lonSpan": 0.2589,
+		"latitude": -33.906487,
+		"longitude": 138.63253650000001
+	}, {
+		"id": 18,
+		"ava_id": "mount_benson",
+		"name": "Mount Benson",
+		"state": "South Australia",
+		"created": "1997-03-18",
+		"latSpan": 0.1866,
+		"lonSpan": 0.2331,
+		"latitude": -37.0336935,
+		"longitude": 139.78662
+	}, {
+		"id": 19,
+		"ava_id": "piccadilly_valley",
+		"name": "Piccadilly Valley",
+		"state": "South Australia",
+		"created": "2000-04-14",
+		"latSpan": 0.0822,
+		"lonSpan": 0.0885,
+		"latitude": -34.974158,
+		"longitude": 138.7463615
+	}, {
+		"id": 20,
+		"ava_id": "far_north",
+		"name": "Far North",
+		"state": "South Australia",
+		"created": "1996-12-27",
+		"latSpan": 7.3369,
+		"lonSpan": 12.0004,
+		"latitude": -29.664831,
+		"longitude": 135.002066
+	}, {
+		"id": 21,
+		"ava_id": "lenswood",
+		"name": "Lenswood",
+		"state": "South Australia",
+		"created": "1998-10-16",
+		"latSpan": 0.0769,
+		"lonSpan": 0.0875,
+		"latitude": -34.925632500000006,
+		"longitude": 138.8229665
+	}, {
+		"id": 22,
+		"ava_id": "barossa",
+		"name": "Barossa",
+		"state": "South Australiia",
+		"created": "1997-08-15",
+		"latSpan": 0.5012,
+		"lonSpan": 0.5199,
+		"latitude": -34.5572495,
+		"longitude": 139.0033615
+	}, {
+		"id": 23,
+		"ava_id": "limestone_coast",
+		"name": "Limestone Coast",
+		"state": "South Australia",
+		"created": "2000-12-08",
+		"latSpan": 2.2546,
+		"lonSpan": 1.6847,
+		"latitude": -36.935404500000004,
+		"longitude": 140.130993
+	}, {
+		"id": 24,
+		"ava_id": "adelaide_hills",
+		"name": "Adelaide Hills",
+		"state": "South Australia",
+		"created": "1996-12-27",
+		"latSpan": 0.6617,
+		"lonSpan": 0.5053,
+		"latitude": -35.018673,
+		"longitude": 138.831302
+	}, {
+		"id": 25,
+		"ava_id": "adelaide_plains",
+		"name": "Adelaide Plains",
+		"state": "South Australia",
+		"created": "2002-03-25",
+		"latSpan": 0.4104,
+		"lonSpan": 0.3872,
+		"latitude": -34.647343,
+		"longitude": 138.5595355
+	}, {
+		"id": 26,
+		"ava_id": "wrattonbully",
+		"name": "Wrattonbully",
+		"state": "South Australia",
+		"created": "2005-07-05",
+		"latSpan": 0.4041,
+		"lonSpan": 0.2746,
+		"latitude": -37.0244675,
+		"longitude": 140.853402
+	}, {
+		"id": 27,
+		"ava_id": "coonawarra",
+		"name": "Coonawarra",
+		"state": "South Australia",
+		"created": "2003-01-06",
+		"latSpan": 0.3269,
+		"lonSpan": 0.22,
+		"latitude": -37.3021945,
+		"longitude": 140.8630655
+	}, {
+		"id": 28,
+		"ava_id": "mount_lofty_ranges",
+		"name": "Mount Lofty Ranges",
+		"state": "South Australia",
+		"created": "1996-12-27",
+		"latSpan": 2.0241,
+		"lonSpan": 1.2171,
+		"latitude": -34.337479,
+		"longitude": 138.7496265
+	}]
+}
