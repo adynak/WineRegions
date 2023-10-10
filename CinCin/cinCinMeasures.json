@@ -1,0 +1,80 @@
+[
+  {
+    "id": 7,
+    "name": " ",
+    "sortKey": "f",
+    "internamName": ""
+  },
+  {
+    "id": 9,
+    "name": "Cup",
+    "sortKey": "f",
+    "internamName": ""
+  },
+  {
+    "id": 10,
+    "name": "Cups",
+    "sortKey": "t",
+    "internamName": ""
+  },
+  {
+    "id": 3,
+    "name": "Dash",
+    "sortKey": "f",
+    "internamName": ""
+  },
+  {
+    "id": 2,
+    "name": "Dashes",
+    "sortKey": "t",
+    "internamName": ""
+  },
+  {
+    "id": 8,
+    "name": "Strip",
+    "sortKey": "f",
+    "internamName": ""
+  },
+  {
+    "id": 11,
+    "name": "Strips",
+    "sortKey": "t",
+    "internamName": ""
+  },
+  {
+    "id": 14,
+    "name": "TB",
+    "sortKey": "t",
+    "internamName": ""
+  },
+  {
+    "id": 4,
+    "name": "TB",
+    "sortKey": "f",
+    "internamName": ""
+  },
+  {
+    "id": 13,
+    "name": "Tsp",
+    "sortKey": "t",
+    "internamName": ""
+  },
+  {
+    "id": 5,
+    "name": "Tsp",
+    "sortKey": "f",
+    "internamName": ""
+  },
+  {
+    "id": 1,
+    "name": "oz",
+    "sortKey": "f",
+    "internamName": ""
+  },
+  {
+    "id": 6,
+    "name": "oz",
+    "sortKey": "t",
+    "internamName": ""
+  }
+]
