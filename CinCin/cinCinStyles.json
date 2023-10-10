@@ -1,0 +1,70 @@
+[
+  {
+    "id": "1",
+    "name": "Bourbon"
+  },
+  {
+    "id": "7",
+    "name": "Brandy"
+  },
+  {
+    "id": "11",
+    "name": "Classic"
+  },
+  {
+    "id": "2",
+    "name": "Gin"
+  },
+  {
+    "id": "12",
+    "name": "Highball"
+  },
+  {
+    "id": "9",
+    "name": "Manhattan"
+  },
+  {
+    "id": "110",
+    "name": "Mezcal"
+  },
+  {
+    "id": "8",
+    "name": "Negroni"
+  },
+  {
+    "id": "112",
+    "name": "Non Alcoholic"
+  },
+  {
+    "id": "94",
+    "name": "Punch"
+  },
+  {
+    "id": "4",
+    "name": "Rum"
+  },
+  {
+    "id": "6",
+    "name": "Rye"
+  },
+  {
+    "id": "109",
+    "name": "Scotch"
+  },
+  {
+    "id": "10",
+    "name": "Sour"
+  },
+  {
+    "id": "115",
+    "name": "Tequila"
+  },
+  {
+    "id": "3",
+    "name": "Vodka"
+  },
+  {
+    "id": "5",
+    "name": "Whiskey"
+  }
+]
