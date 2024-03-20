@@ -206,19 +206,19 @@
         "ingredients": [
           {
             "id": 1,
-            "name": "1½ oz Cognac"
+            "name": "1 1/2 oz Cognac"
           },
           {
             "id": 2,
-            "name": "¾ oz Triple Sec"
+            "name": "3/4 oz Triple Sec"
           },
           {
             "id": 3,
-            "name": "½ oz Limoncello"
+            "name": "1/2 oz Limoncello"
           },
           {
             "id": 4,
-            "name": "½ oz Lemon Juice"
+            "name": "1/2 oz Lemon Juice"
           }
         ],
         "garnishes": [
