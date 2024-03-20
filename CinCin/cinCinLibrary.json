@@ -197,6 +197,36 @@
             "name": "1 Strip Lemon Peel"
           }
         ]
+      },
+      {
+        "id": 7,
+        "category": "Brandy",
+        "name": "Gennaro Sidecar",
+        "portions": "1",
+        "ingredients": [
+          {
+            "id": 1,
+            "name": "1½ oz Cognac"
+          },
+          {
+            "id": 2,
+            "name": "¾ oz Triple Sec"
+          },
+          {
+            "id": 3,
+            "name": "½ oz Limoncello"
+          },
+          {
+            "id": 4,
+            "name": "½ oz Lemon Juice"
+          }
+        ],
+        "garnishes": [
+          {
+            "id": 4,
+            "name": "1 Strip Orange Peel"
+          }
+        ]
       }
     ],
     "isExpanded": true
