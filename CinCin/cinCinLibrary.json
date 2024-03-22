@@ -1919,7 +1919,13 @@
           },
           {
             "id": 4,
-            "name": "1 Egg White"
+            "name": "1 tsp Egg White"
+          }
+        ],
+        "garnishes": [
+          {
+            "id": 5,
+            "name": "Angostura Bitters"
           }
         ]
       }
