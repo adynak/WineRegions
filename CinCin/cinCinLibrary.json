@@ -1898,6 +1898,30 @@
             "name": "3/4 oz Lime Juice"
           }
         ]
+      },
+      {
+        "id": 60,
+        "category": "Sour",
+        "name": "Pisco Sour",
+        "portions": "1",
+        "ingredients": [
+          {
+            "id": 1,
+            "name": "2 oz Pisco"
+          },
+          {
+            "id": 2,
+            "name": "1 oz Lime Juice"
+          },
+          {
+            "id": 3,
+            "name": "1/2 oz Simple Syrup"
+          },
+          {
+            "id": 4,
+            "name": "1 Egg White"
+          }
+        ]
       }
     ],
     "isExpanded": true
