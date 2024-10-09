@@ -1,109 +1,106 @@
-{
-    "WhatsNew": [
-        {
-            "id": 0,
-            "version": "Version 1.1.0",
-            "releaseDate": "06.01.2021",
-            "newFeatures": [
-                {
-                    "id": 0,
-                    "feature": "Using Ad Hoc Reports",
-                    "description": "Learn how to design and run custom reports for wines in your cellar.\n\nSave and edit reports to get them just right. \n\nView the report on your device. Print or export reports using the cloud.\n\nBuild a library of reports you use often.",
-                    "icon": "list.and.film",
-                    "color": "mainColor",
-                    "title": "",
-                    "link": "https://adynak.github.io/support/tutorials/media/Using%20Ad%20Hoc%20Reports.mp4"
-                }
-            ],
-            "isExpanded": true
-        },
-        {
-            "id": 1,
-            "version": "Version 1.1.0",
-            "releaseDate": "06.02.2021",
-            "newFeatures": [
-                {
-                    "id": 0,
-                    "feature": "Using Ad Hoc Reports1",
-                    "description": "Just for fun, what day of the week do you open wine most often?",
-                    "icon": "list.and.film",
-                    "color": "mainColor",
-                    "title": "",
-                    "link": "https://adynak.github.io/support/tutorials/media/Using%20Ad%20Hoc%20Reports.mp4"
-                }
-            ],
-            "isExpanded": true
-        },
-        {
-            "id": 2,
-            "version": "Version 1.1.0",
-            "releaseDate": "06.02.2021",
-            "newFeatures": [
-                {
-                    "id": 0,
-                    "feature": "Using Ad Hoc Reports2",
-                    "description": "Just for fun, what day of the week do you open wine most often?",
-                    "icon": "list.and.film",
-                    "color": "mainColor",
-                    "title": "",
-                    "link": "https://adynak.github.io/support/tutorials/media/Using%20Ad%20Hoc%20Reports.mp4"
-                }
-            ],
-            "isExpanded": true
-        },
-        {
-            "id": 3,
-            "version": "Version 1.1.0",
-            "releaseDate": "06.01.2021",
-            "newFeatures": [
-                {
-                    "id": 0,
-                    "feature": "Using Ad Hoc Reports3",
-                    "description": "Learn how to design and run custom reports for wines in your cellar.\n\nSave and edit reports to get them just right. \n\nView the report on your device. Print or export reports using the cloud.\n\nBuild a library of reports you use often.",
-                    "icon": "list.and.film",
-                    "color": "mainColor",
-                    "title": "",
-                    "link": "https://adynak.github.io/support/tutorials/media/Using%20Ad%20Hoc%20Reports.mp4"
-                }
-            ],
-            "isExpanded": true
-        },
-        {
-            "id": 4,
-            "version": "Version 1.1.0",
-            "releaseDate": "06.02.2021",
-            "newFeatures": [
-                {
-                    "id": 0,
-                    "feature": "Using Ad Hoc Reports4",
-                    "description": "Just for fun, what day of the week do you open wine most often?",
-                    "icon": "list.and.film",
-                    "color": "mainColor",
-                    "title": "",
-                    "link": "https://adynak.github.io/support/tutorials/media/Using%20Ad%20Hoc%20Reports.mp4"
-                }
-            ],
-            "isExpanded": true
-        },
-        {
-            "id": 5,
-            "version": "Version 1.1.0",
-            "releaseDate": "06.02.2021",
-            "newFeatures": [
-                {
-                    "id": 0,
-                    "feature": "Using Ad Hoc Reports5",
-                    "description": "Just for fun, what day of the week do you open wine most often?",
-                    "icon": "list.and.film",
-                    "color": "mainColor",
-                    "title": "",
-                    "link": "https://adynak.github.io/support/tutorials/media/Using%20Ad%20Hoc%20Reports.mp4"
-                }
-            ],
-            "isExpanded": true
-        }
-
-
-    ]
-}
-
+[
+    {
+        "id": 0,
+        "version": "Version 1.1.0",
+        "releaseDate": "06.01.2021",
+        "newFeatures": [
+            {
+                "id": 0,
+                "feature": "Using Ad Hoc Reports",
+                "description": "Learn how to design and run custom reports for wines in your cellar.\n\nSave and edit reports to get them just right. \n\nView the report on your device. Print or export reports using the cloud.\n\nBuild a library of reports you use often.",
+                "icon": "list.and.film",
+                "color": "mainColor",
+                "title": "",
+                "link": "https://adynak.github.io/support/tutorials/media/Using%20Ad%20Hoc%20Reports.mp4"
+            }
+        ],
+        "isExpanded": true
+    },
+    {
+        "id": 1,
+        "version": "Version 1.1.0",
+        "releaseDate": "06.02.2021",
+        "newFeatures": [
+            {
+                "id": 0,
+                "feature": "Using Ad Hoc Reports1",
+                "description": "Just for fun, what day of the week do you open wine most often?",
+                "icon": "list.and.film",
+                "color": "mainColor",
+                "title": "",
+                "link": "https://adynak.github.io/support/tutorials/media/Using%20Ad%20Hoc%20Reports.mp4"
+            }
+        ],
+        "isExpanded": true
+    },
+    {
+        "id": 2,
+        "version": "Version 1.1.0",
+        "releaseDate": "06.02.2021",
+        "newFeatures": [
+            {
+                "id": 0,
+                "feature": "Using Ad Hoc Reports2",
+                "description": "Just for fun, what day of the week do you open wine most often?",
+                "icon": "list.and.film",
+                "color": "mainColor",
+                "title": "",
+                "link": "https://adynak.github.io/support/tutorials/media/Using%20Ad%20Hoc%20Reports.mp4"
+            }
+        ],
+        "isExpanded": true
+    },
+    {
+        "id": 3,
+        "version": "Version 1.1.0",
+        "releaseDate": "06.01.2021",
+        "newFeatures": [
+            {
+                "id": 0,
+                "feature": "Using Ad Hoc Reports3",
+                "description": "Learn how to design and run custom reports for wines in your cellar.\n\nSave and edit reports to get them just right. \n\nView the report on your device. Print or export reports using the cloud.\n\nBuild a library of reports you use often.",
+                "icon": "list.and.film",
+                "color": "mainColor",
+                "title": "",
+                "link": "https://adynak.github.io/support/tutorials/media/Using%20Ad%20Hoc%20Reports.mp4"
+            }
+        ],
+        "isExpanded": true
+    },
+    {
+        "id": 4,
+        "version": "Version 1.1.0",
+        "releaseDate": "06.02.2021",
+        "newFeatures": [
+            {
+                "id": 0,
+                "feature": "Using Ad Hoc Reports4",
+                "description": "Just for fun, what day of the week do you open wine most often?",
+                "icon": "list.and.film",
+                "color": "mainColor",
+                "title": "",
+                "link": "https://adynak.github.io/support/tutorials/media/Using%20Ad%20Hoc%20Reports.mp4"
+            }
+        ],
+        "isExpanded": true
+    },
+    {
+        "id": 5,
+        "version": "Version 1.1.0",
+        "releaseDate": "06.02.2021",
+        "newFeatures": [
+            {
+                "id": 0,
+                "feature": "Using Ad Hoc Reports5",
+                "description": "Just for fun, what day of the week do you open wine most often?",
+                "icon": "list.and.film",
+                "color": "mainColor",
+                "title": "",
+                "link": "https://adynak.github.io/support/tutorials/media/Using%20Ad%20Hoc%20Reports.mp4"
+            }
+        ],
+        "isExpanded": true
+    }
+    
+    
+]
