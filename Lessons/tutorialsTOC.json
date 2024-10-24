@@ -1,0 +1,18 @@
+[
+  {
+    "id": 0,
+    "icon": "bubble",    
+    "title": "Overview",
+    "teaser": "You liked it, bought it and brought it home.  What happened to it next?  Of course, you added it to a \"location\" and maybe a \"bin\" using your \"Cellar Tracker\" account, right?\n\nHow do you find it again?  Ask WineGPS!\n\nAll users would benefit from this tutorial.  Learn how to navigate the WineGPS menus, what actions the icons in WineGPS trigger and discover the features within WingGPS views.",
+    "lessonImageUrl": "Lessons/Overview/OverviewTOC.json",
+    "lesson":""
+  },
+  {
+    "id": 1,
+    "icon": "text.page.badge.magnifyingglass",    
+    "title": "Using Ad Hoc Reports",
+    "teaser": "Learn how to design and run custom reports for wines in your cellar.\nSave and edit reports to get them just right. \nView the report on your device. Print or export reports using the cloud.\nBuild a library of reports you use often.",
+    "lessonImageUrl": "Lessons/AdHocReports/UsingAdHocReportsTOC.json",
+    "lesson":""
+  }
+]

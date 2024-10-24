@@ -1,0 +1,50 @@
+[
+  {
+    "id": 0,
+    "title": "Create A New Report",
+    "teaser": "Tap Reports then Ad Hoc Reports.",
+    "icon": "filemenu.and.cursorarrow",
+    "lessonImageUrl": "Lessons/AdHocReports/CreateNewReport.png",
+    "lesson": "You need a name, sort and filter rules, and output columns."
+  },
+  {
+    "id": 1,
+    "title": "Sorting Rules",
+    "teaser": "Define how you want to sort your report.",
+    "icon": "arrow.up.arrow.down",
+    "lessonImageUrl": "Lessons/AdHocReports/SortingRules.png",
+    "lesson": "You must choose one sort field.  A second sort field is optional.\n\nSorting will also group the results of your report into separate paragraphs.\n\nIn this tutorial we will sort by “Store Name”.\n\nTap #image(checkmark) to save or swipe down to discard your selection."
+  },
+  {
+    "id": 2,
+    "title": "Report Filters",
+    "teaser": "Define how you want to filter your report.",
+    "icon": "list.bullet.indent",
+    "lessonImageUrl": "Lessons/AdHocReports/ReportFilters.png",
+    "lesson": "Wines that match the filters will be included on the report.\n\nA filter is a single match rule for each field.  For example,  there is no “2020 or 2021” filter for Vintage.  There is no “Spain and France” filter for Country.  No and’s and no or’s.\n\nYou could create a filter that is “2020” for Vintage and “France” for Country.\n\nIn this tutorial we will filter by “Store Name = fellow”.  This will match Goodfellow, New Fellowship, and Fellows.  The Store Name must contain the filter. \n\nTap #image(questionmark) to display examples of your wines and how you can apply effective filters.\n\nTap #image(checkmark) to save or swipe down to discard your selection."
+  },
+  {
+    "id": 3,
+    "title": "Report Columns",
+    "teaser": "Choose the columns to appear on your report.",
+    "icon": "square.grid.3x1.folder.badge.plus",
+    "lessonImageUrl": "Lessons/AdHocReports/ReportColumns.png",
+    "lesson": "What columns do you want on the report?  Tap to add checkmarks for the columns you want on the report.\n\nTap #image(arrow.up.arrow.down) to change the order of the columns on your finished report.\n\nTap #image(arrow.clockwise) to reset your choices.\n\nTap #image(checkmark) to save or swipe down to discard your selection."
+  },
+  {
+    "id": 4,
+    "title": "Save, Run, Edit",
+    "teaser": "Run your report to your device.  Review and revise your report.",
+    "icon": "document.viewfinder",
+    "lessonImageUrl": "Lessons/AdHocReports/Swipe.png",
+    "lesson": "Run the report by tapping its name.\n\nTap #image(arrow.up.arrow.down) to change the order of the reports in this list.\n\nSwipe left to Edit or Delete the report.\n\nView the report in Portrait or Landscape.  Tap #image(printer) to print the report.  Tap #image(square.and.arrow.down) to download a CSV of the report.\n\nIf you see a wine that you want to drink in the report, you can tap the row and add the bottle to your shopping cart.\n\nTap #image(chevron.left) to return to the menu."
+  },
+    {
+    "id": 5,
+    "title": "View, Print, Download",
+    "teaser": "View your report in Portrait or Landscape.  Send a copy to a network printer.  Save a CSV version of your report.",
+    "icon": "printer",
+    "lessonImageUrl": "Lessons/AdHocReports/Portrait.png",
+    "lesson": "Tap #image(printer) to print the report.  Tap #image(square.and.arrow.down) to download a CSV of the report to your iCloud files for use in another app.\n\nIf you see a wine that you want to drink in the report, you can tap the row and add the bottle to your shopping cart.\n\nTap #image(chevron.left) to return to the menu.\n\n*Drag the above image to view it completely."
+  }
+]

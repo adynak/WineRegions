@@ -1,0 +1,90 @@
+[
+  {
+    "id": 0,
+    "title": "Searching Your Cellar",
+    "teaser": "Full and partial search terms.",
+    "icon": "binoculars",
+    "lessonImageUrl": "Lessons/Overview/SearchingYourCellar.png",
+    "lesson": "Search terms are Producer, Varietal, Vintage, Vineyard, AVA, Country, Type and Designation.\n\nSearch is case insensitive and understands partial words: \"16 cab sauv\" will find 2016 Cabernet Sauvignon.\n\nBe careful with your partial search terms: \"19 cab sauv\" will find all your 19xx vintage as well as 2019 vintage cabernet saugivnon wines.\n\nPull down or click the #image(clock) to refresh WineGPS from CellarTracker"
+  },
+  {
+    "id": 1,
+    "title": "Filter",
+    "teaser": "Filter by one or more locations.",
+    "icon": "list.bullet.indent",
+    "lessonImageUrl": "Lessons/Overview/Filter.png",
+    "lesson": "Tap #image(location) to choose the search Location.\n\nYou can search in more than one Location: Cellar, Under The Stairs, Wine Storage Locker.\n\nThe choice is yours."
+  },
+  {
+    "id": 2,
+    "title": "Sort",
+    "teaser": "Sort by Availability, Vintage and more.",
+    "icon": "arrow.up.arrow.down",
+    "lessonImageUrl": "Lessons/Overview/Sort.png",
+    "lesson": "Tap #image(arrow.up.arrow.down) to change the sort order.  Sort by vintage, purchase date, ready to drink and more.\n\nThe selected locations display below the bottle count.  The sort order displays in the heading.\n\nIt is important to include a drinking window (Drink Soonest and Drink Latest) when you add wines to your cellar."
+  },
+  {
+    "id": 3,
+    "title": "Report and Tools",
+    "teaser": "Discover the reports and tools that are included with WineGPS.",
+    "icon": "book.and.wrench",
+    "lessonImageUrl": "Lessons/Overview/ReportAndTools.png",
+    "lesson": "There are three Grouped Reports - Use Producer or Varietal when shopping.  Use Location when you need to reconcile your actual inventory with your online inventory.\n\nInsights contains charts to help you visualize your collection.\n\nAged Inventory is based on when you bought your wines.\n\nMap puts pins on a globe to indicate where your wines are from.\n\nAd Hoc Reports lets you build and save custom reports on a variety of criteria.\n\nBin Management creates and saves capacities of your bins and syncs these with all your iOS devices.  You can also relocate wines using this tool."
+  },
+  {
+    "id": 4,
+    "title": "Insights",
+    "teaser": "Charts of Purchases, Consumed, Drinking Window, Five Year Plan and Cellar Statistics.",
+    "icon": "chart.bar.xaxis",
+    "lessonImageUrl": "Lessons/Overview/Insights.png",
+    "lesson": "Toggle between bar and line charts and drill down to see the bottles behind the chart."
+  },
+  {
+    "id": 5,
+    "title": "Ad Hoc Reports",
+    "teaser": "Create, run, print, save, and download custom reports.",
+    "icon": "document.badge.gearshape",
+    "lessonImageUrl": "Lessons/Overview/AdHocReports.png",
+    "lesson": "Use Ad Hoc Reports to create, run, print, save, and download custom reports.\n\nEdit saved reports to get them just right.\n\nDrag saved reports to an order that makes sense for you.\n\nThere is separate tutorial that details this feature."
+  },
+  {
+    "id": 6,
+    "title": "Geolocation",
+    "teaser": "Curious to see where your wines are from?",
+    "icon": "globe",
+    "lessonImageUrl": "Lessons/Overview/Geolocation.png",
+    "lesson": "Use Maps to see a drill down list or a globe with pins showing the location.\n\nTap a pin to see the growing area.\n\nExplore your wines from that area.  Select to drink a wine from this view."
+  },
+  {
+    "id": 7,
+    "title": "Bin Management",
+    "teaser": "Set capacities for your bins.  Quickly find where you have room for more bottles.  Relocate bottles within this feature.",
+    "icon": "square.grid.3x3",
+    "lessonImageUrl": "Lessons/Overview/BinManagement.png",
+    "lesson": "Set capacities for your bins.  Bins persists even if they are empty.\n\nQuickly find where you have room for more bottles.\n\nRelocate bottles within this feature.\n\nBe sure to log into your iCloud account to track your Bin capacities across all your IOS devices."
+  },
+  {
+    "id": 8,
+    "title": "Select to Drink",
+    "teaser": "Choose which wine to drink.",
+    "icon": "checklist",
+    "lessonImageUrl": "Lessons/Overview/SelectToDrink.png",
+    "lesson": "From any view of your wines, tap the #image(square) to add wines to go into your cart.  Tap #image(checkmark.square) to remove them.\n\nWhen you are done, tap the Add To Cart button to place them in your shopping cart.\n\nWhen there are Community Notes for a wine, tap #image(star.bubble) to view them.  When there are no Community Notes for a wine, tap #image(pencil.tip.crop.circle.badge.plus) to add a new note.\n\nConfirm adding bottles to your cart.\n\nYou can change the reason you are removing wine and the consumed date.\n\nContinue adding wines to your cart from any source.  You can only add the same bottle once to your cart."
+  },
+  {
+    "id": 9,
+    "title": "Shopping Cart",
+    "teaser": "Discover the features within your shopping cart.",
+    "icon": "cart",
+    "lessonImageUrl": "Lessons/Overview/ShoppingCart.png",
+    "lesson": "Tap #image(cart.fill.badge.questionmark) to view your cart.\n\nTap #image(printer) to print your cart, tap #image(square.and.arrow.down) to download your cart or tap #image(cart.badge.plus) to continue shopping.\n\nPress Check Out to message Cellar Tracker to mark the bottles in your cart as gone.\n\nBottles not \"Checked Out\" stay in your cart even if you log out.\n\nSwipe left to choose to remove a single bottle from yout cart or to add a consumed note."
+  },
+  {
+    "id": 10,
+    "title": "Settings",
+    "teaser": "Change WineGPS functionality to meet your needs.",
+    "icon": "gearshape.2",
+    "lessonImageUrl": "Lessons/Overview/Settings.png",
+    "lesson": "If you don’t use barcodes, turn them off!\n\nValue and Price are optional values.\n\nIf you have room on your device, turn Allow Offline Data on.  WineGPS will use the data on your device when a network connection is not available.\n\nRose and Rosé will match if you Search Without Diacritics.\n\nAdjust the buckets for the Aged Inventory Report: 30, 60, 90, 180 or 365 days.\n\nChange these settings at any time."
+  }
+]
