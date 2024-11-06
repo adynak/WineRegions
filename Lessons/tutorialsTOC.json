@@ -9,7 +9,7 @@
   },
   {
     "id": 1,
-    "icon": "text.page.badge.magnifyingglass",
+    "icon": "rectangle.and.text.magnifyingglass",
     "title": "Using Ad Hoc Reports",
     "teaser": "Learn how to design and run custom reports for wines in your cellar.\nSave and edit reports to get them just right. \nView the report on your device. Print or export reports using the cloud.\nBuild a library of reports you use often.",
     "lessonImageUrl": "Lessons/AdHocReports/UsingAdHocReportsTOC.json",
