@@ -35,7 +35,7 @@
     "id": 4,
     "title": "Save, Run, Edit",
     "teaser": "Run your report to your device.  Review and revise your report.",
-    "icon": "document.viewfinder",
+    "icon": "book.pages",
     "lessonImageUrl": "Lessons/AdHocReports/Swipe.png",
     "lesson": "Run the report by tapping its name.\n\nTap #image(arrow.up.arrow.down) to change the order of the reports in this list.\n\nSwipe left to Edit or Delete the report.\n\nView the report in Portrait or Landscape.  Tap #image(printer) to print the report.  Tap #image(square.and.arrow.down) to download a CSV of the report.\n\nIf you see a wine that you want to drink in the report, you can tap the row and add the bottle to your shopping cart.\n\nTap #image(chevron.left) to return to the menu."
   },
