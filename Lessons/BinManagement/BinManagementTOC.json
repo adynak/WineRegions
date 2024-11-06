@@ -1,0 +1,50 @@
+[
+  {
+    "id": 0,
+    "title": "Your Cellar at a Glance",
+    "teaser": "All your locations and bins in one place.",
+    "icon": "square.grid.3x3.square",
+    "lessonImageUrl": "Lessons/BinManagement/CellarAtAGlance.png",
+    "lesson": "Tap #image(chevron.up.circle) to collapse a Location.  Tap #image(chevron.down.circle) to expand a Location.\n\nTotal bottle count, available bin slots and overfull bins display in the footer.  Tap one of these icons to see only those bins.\n\nSwipe left on a bin to set capacity or to move bottles to another bin."
+  },
+  {
+    "id": 1,
+    "title": "Change Bin Capacity",
+    "teaser": "Set the capacity of each of your bins.",
+    "icon": "circle.grid.3x3.fill",
+    "lessonImageUrl": "Lessons/BinManagement/ChangeBinCapacity.png",
+    "lesson": "Swipe left on a bin and tap Set Capacity.\n\nThe capacity defaults to the number of bottles currently in the bin.\n\nTap #image(plus.square) or #image(minus.square) to change the capacity.\n\nThe capacity for the bin saves to your iCloud account."
+  },
+  {
+    "id": 2,
+    "title": "Empty Bins",
+    "teaser": "Resolve what you want to do with empth bins.",
+    "icon": "squareshape.split.3x3",
+    "lessonImageUrl": "Lessons/BinManagement/EmptyBins.png",
+    "lesson": "Bins persist in WineGPS even if they are empty.\n\nIf you want to remove an empty bin, swipe left on the bin, choose Set Capacity and tap Remove Bin."
+  },
+  {
+    "id": 3,
+    "title": "Select Bottles to Relocate",
+    "teaser": "We all do it.  Sometimes you just want to store wines grouped a certain way.  Effortlessly make that happen.",
+    "icon": "checkmark.square",
+    "lessonImageUrl": "Lessons/BinManagement/SelectBottlesToRelocate.png",
+    "lesson": "Swipe left on a bin and tap Relocate Bottles.\n\nOnly the bottles in this bin display.  Tap #image(square) to indicate which bottles you want to move.  Tap #image(checkmark.square.fill) if you change your mind.\n\nWhen you are ready, tap the Relocate button or tap #image(xmark) to cancel."
+  },
+  {
+    "id": 4,
+    "title": "Confirm Relocation Plan",
+    "teaser": "Confirm your relocation plan and assign a new bin.",
+    "icon": "square.and.arrow.down.on.square",
+    "lessonImageUrl": "Lessons/BinManagement/ConfirmRelocationPlan.png",
+    "lesson": "Choose a new Location and Bin for your plan.\n\nYou can only move bottles to a single bin.  You can't, for example, move three bottles to one bin and three bottles to another bin at the same time.\n\nTap Cancel to return to the bottles list for the bin or tap OK to relocate the bottles."
+  },
+  {
+    "id": 5,
+    "title": "New Location and Bin",
+    "teaser": "Create a new Location and Bin.",
+    "icon": "hand.raised",
+    "lessonImageUrl": "Lessons/BinManagement/NewLocationAndBin.png",
+    "lesson": "You can't create new Locations or new Bins with WineGPS.  This is reserved for CellarTracker®.\n\nRemember, WineGPS keeps your empty bins.\n\nSee also the tutorial for the WineGPS Shopping Cart."
+  }
+]
