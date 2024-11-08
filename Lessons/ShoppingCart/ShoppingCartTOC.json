@@ -1,0 +1,58 @@
+[
+  {
+    "id": 0,
+    "title": "What is a Shopping Cart?",
+    "teaser": "Just like a grocery cart, you place bottles in your cart that you take to checkout.",
+    "icon": "cart.badge.plus",
+    "lessonImageUrl": "Lessons/ShoppingCart/WhatIsAShoppingCart.png",
+    "lesson": "From any view of your celler, tap #image(square) to indicate which bottles you want to place in your cart.\n\nTap Add To Cart to put them in your cart.\n\nContinue until you are done shopping.\n\nBottles stay in your cellar until you check out."
+  },
+  {
+    "id": 1,
+    "title": "Confirm Your Purchase",
+    "teaser": "Why are you placing this bottle in your cart?",
+    "icon": "checkmark.rectangle.stack",
+    "lessonImageUrl": "Lessons/ShoppingCart/ConfirmYourPurchase.png",
+    "lesson": "Confirm removing bottles: verify the reason and the date you are removing bottles from your cellar.\n\nNothing is permanent until you checkout.\n\nYou can selectively return bottles to your cellar later."
+  },
+  {
+    "id": 2,
+    "title": "View Your Cart",
+    "teaser": "What bottles are in your cart?",
+    "icon": "cart.badge.questionmark",
+    "lessonImageUrl": "Lessons/ShoppingCart/ViewYourCart.png",
+    "lesson": "There are two ways to view your cart.  Depending on the view, tap #image(cart.fill) in the view header or in the footer.\n\nA badge on the cart indicates how many bottles are in the cart."
+  },
+  {
+    "id": 3,
+    "title": "Cart Contents",
+    "teaser": "Before you checkout, let's take a look at what is in your cart and discover what actions you can take.",
+    "icon": "cart.fill",
+    "lessonImageUrl": "Lessons/ShoppingCart/CartContents.png",
+    "lesson": "Here is a list of yur cart.  Swipe left to add a bottle note or to remove a single bottle from your cart.\n\nTap #image(printer) to print your cart.  Tap #image(square.and.arrow.down) to download a CSV of your cart.  Tap #image(cart.badge.plus) to continue shopping.\n\nEmpty Cart returns all bottles to your cellar.\n\nCheck Out messages CellarTracker and WineGPS to remove these bottles from your cellar."
+  },
+  {
+    "id": 4,
+    "title": "Changing Your Mind",
+    "teaser": "Creative uses for your Shopping Cart",
+    "icon": "bubbles.and.sparkles",
+    "lessonImageUrl": "Lessons/ShoppingCart/ChangingYourMind.png",
+    "lesson": "Browse your cellar and fill up your cart with good intentions but do not Check Out.\n\nWhen you're counting empty bottles after the party, leave those bottles in your cart.  Remove bottles you didn't drink.  Put them back where they belong as shown in the cart.\n\nNow Check Out."
+  },
+  {
+    "id": 5,
+    "title": "Create an Invoice",
+    "teaser": "Are you selling or trading wine?",
+    "icon": "menubar.dock.rectangle",
+    "lessonImageUrl": "Lessons/ShoppingCart/CreateAnInvoice.png",
+    "lesson": "Build a cart of bottles you want to sell.  Download the cart (as a CSV) then import it into an external app to build a professional invoice.\n\nOr create a fancy wine list for your dinner party.\n\nRemember, WineGPS leaves bottles in your cellar until your expressly Check Out."
+  },
+  {
+    "id": 6,
+    "title": "Print Your Cart",
+    "teaser": "If you need a hard copy, here's what it looks like.",
+    "icon": "printer",
+    "lessonImageUrl": "Lessons/ShoppingCart/PrintYourCart.png",
+    "lesson": "Tap #image(printer) to send a copy of the cart to your printer."
+  }
+]

@@ -1,7 +1,7 @@
 [
   {
     "id": 0,
-    "icon": "bubble",
+    "icon": "bubble", 
     "title": "Overview",
     "teaser": "You liked it, bought it and brought it home.  What happened to it next?  Of course, you added it to a \"location\" and maybe a \"bin\" using your \"Cellar Tracker\" account, right?\n\nHow do you find it again?  Ask WineGPS!\n\nAll users would benefit from this tutorial.  Learn how to navigate the WineGPS menus, what actions the icons in WineGPS trigger and discover the features within WingGPS views.",
     "lessonImageUrl": "Lessons/Overview/OverviewTOC.json",
@@ -11,7 +11,7 @@
     "id": 1,
     "icon": "rectangle.and.text.magnifyingglass",
     "title": "Using Ad Hoc Reports",
-    "teaser": "Learn how to design and run custom reports for wines in your cellar.\nSave and edit reports to get them just right. \nView the report on your device. Print or export reports using the cloud.\nBuild a library of reports you use often.",
+    "teaser": "Learn how to design and run custom reports for wines in your cellar.\n\nSave and edit reports to get them just right. \n\nView the report on your device. Print or export reports using the cloud.\n\nBuild a library of reports you use often.",
     "lessonImageUrl": "Lessons/AdHocReports/UsingAdHocReportsTOC.json",
     "lesson":""
   },
@@ -21,6 +21,14 @@
     "title": "Bin Management",
     "teaser": "Define capacities of your bins, find bins with available space and relocate bottes between bins with this feature.",
     "lessonImageUrl": "Lessons/BinManagement/BinManagementTOC.json",
+    "lesson":""
+  },
+  {
+    "id": 3,
+    "icon": "cart",
+    "title": "Shopping Cart",
+    "teaser": "What can you do with your shopping cart?\n\nLearn how to add and remove bottles from your cart.\n\nDid you know you can both download or print your cart?",
+    "lessonImageUrl": "Lessons/ShoppingCart/ShoppingCartTOC.json",
     "lesson":""
   }
 ]
