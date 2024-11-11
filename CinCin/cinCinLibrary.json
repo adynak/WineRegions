@@ -287,6 +287,30 @@
     "category": "Gin",
     "cocktails": [
       {
+        "id": 60,
+        "category": "Gin",
+        "name": "Blue Bear",
+        "portions": "1",
+        "ingredients": [
+          {
+            "id": 1,
+            "name": "2 oz Black Current Gin"
+          },
+          {
+            "id": 2,
+            "name": "1 oz Simple Syrup"
+          },
+          {
+            "id": 3,
+            "name": "1 oz Lime Juice"
+          },
+          {
+            "id": 4,
+            "name": "3 Dashes Rhubarb Bitters"
+          }
+        ]
+      },
+      {
         "id": 11,
         "category": "Gin",
         "name": "Casino",
