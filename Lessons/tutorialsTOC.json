@@ -30,5 +30,13 @@
     "teaser": "What can you do with your shopping cart?\n\nLearn how to add and remove bottles from your cart.\n\nDid you know you can both download or print your cart?",
     "lessonImageUrl": "Lessons/ShoppingCart/ShoppingCartTOC.json",
     "lesson":""
+  },
+  {
+    "id": 4,
+    "icon": "list.star",
+    "title": "Wish Lists",
+    "teaser": "What are Wish Lists? Learn what can you do to unleash their powerful features.",
+    "lessonImageUrl": "Lessons/WishLists/WishListsTOC.json",
+    "lesson":""
   }
 ]

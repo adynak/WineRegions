@@ -1,0 +1,74 @@
+[
+  {
+    "id": 0,
+    "title": "What is a Wish List?",
+    "teaser": "It is a list of things you want or hope to have. Like a shopping list.  Or a \"what I want for my birthday\" list.",
+    "icon": "list.star",
+    "lessonImageUrl": "Lessons/WishLists/WhatIsAWishList.png",
+    "lesson": "Create lists of wines you have, hope to have or plan on using in a certain way.\n\nList ideas:\nDrink Soon\nVertical Tasting\nBuy Again\nOffer For Sale\nSpecial Occaision\n\nWineGPS reads and writes Wish Lists from and to CellarTracker®."
+  },
+  {
+    "id": 1,
+    "title": "Add Wines to a Wish List",
+    "teaser": "Browse your wines using any view and choose which wines you want to add to a list.",
+    "icon": "checklist",
+    "lessonImageUrl": "Lessons/WishLists/AddWinesToWishList.png",
+    "lesson": "Tap #image(list.star) on a wine to view your existing lists.\n\nTap #image(square) to add the wine to that list.\n\nTap #image(note.text.badge.plus) to create a new list.\n\nA Wish List bottle note is optional.\n\nYou could put the same wine on more than one wish list."
+  },
+  {
+    "id": 2,
+    "title": "Create a Wish List",
+    "teaser": "Choose a wine then create a new list.",
+    "icon": "document.badge.plus",
+    "lessonImageUrl": "Lessons/WishLists/CreateAWishList.png",
+    "lesson": "Tap #image(list.star) to view your existing lists.\n\nTap #image(note.text.badge.plus) to create a new list.\n\nDuplicate list names are not allowed.\n\nA Wisl List note is optional, but a good idea to help you later understand what a wish list was planned to contain."
+  },
+  {
+    "id": 3,
+    "title": "View your Wish Lists",
+    "teaser": "What lists have you already created.",
+    "icon": "text.page.badge.magnifyingglass",
+    "lessonImageUrl": "Lessons/WishLists/ViewYourWishList.png",
+    "lesson": "From the Reports menu, choose #image(list.star) Wish Lists.\n\nSwipe to delete a list.\n\nTap to view the wines on the list."
+  },
+  {
+    "id": 4,
+    "title": "Wish List Detail",
+    "teaser": "How many wines?  How old is this list?",
+    "icon": "text.page.badge.magnifyingglass",
+    "lessonImageUrl": "Lessons/WishLists/WishListDetail.png",
+    "lesson": "From the Reports menu, choose #image(list.star) Wish Lists.\n\nEach list displays the number of wines in the list and the last time you changed the list.\n\nNote that you cannot delete the list named \"Wish List\"."
+  },
+  {
+    "id": 5,
+    "title": "Remove Wines by Drinking",
+    "teaser": "Drink wines directly from your Wish List.",
+    "icon": "wineglass.fill",
+    "lessonImageUrl": "Lessons/WishLists/RemoveByDrinking.png",
+    "lesson": "From the Reports menu, choose #image(list.star) Wish Lists.\n\nSelect a wish list.\n\nSwipe to the left to expose the \"Select To Drink\" option and tap it.\n\nComplete the Select To Drink view and add the wine to you shopping cart.\n\nWines stay on the list until you use the Shopping Cart \"Check Out\" action.\n\nIf a wine in your wish list is not in your cellar this option is unavailable."
+  },
+  {
+    "id": 6,
+    "title": "Remove Wines Without Drinking",
+    "teaser": "Changed your mind about a wine on your wish list?  Remove it!",
+    "icon": "tray.and.arrow.up",
+    "lessonImageUrl": "Lessons/WishLists/RemoveWithoutDrinking.png",
+    "lesson": "From the Reports menu, choose #image(list.star) Wish Lists.\n\nSelect a wish list.\n\nSwipe to the left to expose the \"Delete from List\" option and tap it.\n\nComfirm that this is really what you want to do."
+  },
+  {
+    "id": 7,
+    "title": "Delete a Wish List",
+    "teaser": "Done with a wish list?  Make it go away!",
+    "icon": "trash",
+    "lessonImageUrl": "Lessons/WishLists/DeleteWishList.png",
+    "lesson": "From the Reports menu, choose #image(list.star) Wish Lists.\n\nSwipe to the left to expose the \"Delete List\" option and tap it.\n\nWhen a list is deleted, all the wines in the list are only removed from the list, never from your cellar."
+  },
+  {
+    "id": 8,
+    "title": "Printing a Wish List",
+    "teaser": "If you need a hard copy...",
+    "icon": "printer",
+    "lessonImageUrl": "Lessons/WishLists/PrintWishList.png",
+    "lesson": "From the Reports menu, choose #image(list.star) Wish Lists. Select any one list.\n\nTap #image(printer) to send a copy of the cart to your printer."
+  }
+]
