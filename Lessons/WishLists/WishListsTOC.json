@@ -5,7 +5,7 @@
     "teaser": "It is a list of things you want or hope to have. Like a shopping list.  Or a \"what I want for my birthday\" list.",
     "icon": "list.star",
     "lessonImageUrl": "Lessons/WishLists/WhatIsAWishList.png",
-    "lesson": "Create lists of wines you have, hope to have or plan on using in a certain way.\n\nList ideas:\nDrink Soon\nVertical Tasting\nBuy Again\nOffer For Sale\nSpecial Occaision\n\nWineGPS reads and writes Wish Lists from and to CellarTracker®."
+    "lesson": "Create lists of wines you have, hope to have or plan on using in a certain way.  List ideas:\n\nDrink Soon\nVertical Tasting\nBuy Again\nOffer For Sale\nSpecial Occaision\n\nWineGPS reads and writes Wish Lists from and to CellarTracker®."
   },
   {
     "id": 1,
@@ -26,7 +26,7 @@
   {
     "id": 3,
     "title": "View your Wish Lists",
-    "teaser": "What lists have you already created.",
+    "teaser": "What lists have you already created?",
     "icon": "text.page.badge.magnifyingglass",
     "lessonImageUrl": "Lessons/WishLists/ViewYourWishList.png",
     "lesson": "From the Reports menu, choose #image(list.star) Wish Lists.\n\nSwipe to delete a list.\n\nTap to view the wines on the list."
