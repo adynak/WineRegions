@@ -13,7 +13,7 @@
     "teaser": "Browse your wines using any view and choose which wines you want to add to a list.  You can add consumed wines to a wish list too!",
     "icon": "checklist",
     "lessonImageUrl": "Lessons/WishLists/AddWinesToWishList.png",
-    "lesson": "Tap #image(list.star) on a wine to view your existing lists.\n\nTap #image(square) to add the wine to that list.\n\nTap #image(note.text.badge.plus) to create a new list.\n\nA Wish List bottle note is optional.\n\nYou could put the same wine on more than one wish list.  You can swipe a wine that you have consumed (Empth Bottles) and add it to a wishh list."
+    "lesson": "Tap #image(list.star) on a wine to view your existing lists.\n\nTap #image(square) to add the wine to that list.\n\nTap #image(note.text.badge.plus) to create a new list.\n\nA Wish List bottle note is optional.\n\nYou could put the same wine on more than one wish list.\n\nYou can swipe a wine that you have consumed (Empty Bottles) and add it to a wishh list."
   },
   {
     "id": 2,
