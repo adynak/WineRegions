@@ -3,7 +3,7 @@
     "id": 0,
     "title": "What is a Wish List?",
     "teaser": "It is a list of things you want or hope to have. Like a shopping list.  Or a \"what I want for my birthday\" list.",
-    "icon": "list.star",
+    "icon": "star.fill",
     "lessonImageUrl": "Lessons/WishLists/WhatIsAWishList.png",
     "lesson": "Create lists of wines you have, hope to have or plan on using in a certain way.  List ideas:\n\nDrink Soon\nVertical Tasting\nBuy Again\nOffer For Sale\nSpecial Occaision\n\nWineGPS reads and writes Wish Lists from and to CellarTracker®."
   },

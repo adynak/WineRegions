@@ -33,7 +33,7 @@
   },
   {
     "id": 4,
-    "icon": "list.star",
+    "icon": "star.fill",
     "title": "Wish Lists",
     "teaser": "What are Wish Lists? Learn what can you do to unleash their powerful features.",
     "lessonImageUrl": "Lessons/WishLists/WishListsTOC.json",
