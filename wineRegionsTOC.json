@@ -4527,6 +4527,17 @@
               "longitude": -8.72264,
               "latSpan": 0.40381200000000206,
               "lonSpan": 0.497962
+            },
+            {
+              "id": 1,
+              "ava_id": "galicia",
+              "name": "Galicia",
+              "state": "Galicia",
+              "created": "",
+              "latitude": 42.2328,
+              "longitude": -8.72264,
+              "latSpan": 0.40381200000000206,
+              "lonSpan": 0.497962
             }
           ]
         }
