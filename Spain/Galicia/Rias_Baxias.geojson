@@ -1,17 +1,17 @@
 {
   "type": "FeatureCollection",
-  "name": "Rias Baixas",
+  "name": "Rías Baixas",
   "features": [
     {
       "type": "Feature",
       "properties": {
-        "ava_id": "rias_baixas",
-        "name": "Rias Baixas",
+        "ava_id": "rías baixas",
+        "name": "Rías Baixas",
         "created": "2026-06-01",
         "county": "",
-        "state": "Galacia",
+        "state": "Galicia",
         "within": "",
-        "contains": "Rias Baixasl",
+        "contains": "Rías Baixas",
         "petitioner": ""
       },
       "geometry": {
