@@ -24,6 +24,882 @@
           "type": "Polygon",
           "arcs": [
             [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6
+            ]
+          ],
+          "id": "02",
+          "properties": {
+            "name": "Albacete"
+          }
+        },
+        {
+          "type": "MultiPolygon",
+          "arcs": [
+            [
+              [
+                7,
+                -4,
+                8,
+                9
+              ]
+            ]
+          ],
+          "id": "03",
+          "properties": {
+            "name": "Alacant/Alicante"
+          }
+        },
+        {
+          "type": "MultiPolygon",
+          "arcs": [
+            [
+              [
+                10,
+                11,
+                12
+              ]
+            ]
+          ],
+          "id": "04",
+          "properties": {
+            "name": "AlmerÃ­a"
+          }
+        },
+        {
+          "type": "Polygon",
+          "arcs": [
+            [
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19,
+              20
+            ]
+          ],
+          "id": "05",
+          "properties": {
+            "name": "Ãvila"
+          }
+        },
+        {
+          "type": "Polygon",
+          "arcs": [
+            [
+              21,
+              22,
+              23,
+              24,
+              25,
+              26,
+              27,
+              28,
+              29
+            ]
+          ],
+          "id": "06",
+          "properties": {
+            "name": "Badajoz"
+          }
+        },
+        {
+          "type": "MultiPolygon",
+          "arcs": [
+            [
+              [
+                30
+              ]
+            ],
+            [
+              [
+                31
+              ]
+            ],
+            [
+              [
+                32
+              ]
+            ],
+            [
+              [
+                33
+              ]
+            ],
+            [
+              [
+                34
+              ]
+            ],
+            [
+              [
+                35
+              ]
+            ],
+            [
+              [
+                36
+              ]
+            ]
+          ],
+          "id": "07",
+          "properties": {
+            "name": "Illes Balears"
+          }
+        },
+        {
+          "type": "MultiPolygon",
+          "arcs": [
+            [
+              [
+                37,
+                38,
+                39,
+                40
+              ],
+              [
+                41
+              ],
+              [
+                42
+              ],
+              [
+                43
+              ]
+            ],
+            [
+              [
+                44
+              ]
+            ],
+            [
+              [
+                45
+              ]
+            ]
+          ],
+          "id": "08",
+          "properties": {
+            "name": "Barcelona"
+          }
+        },
+        {
+          "type": "MultiPolygon",
+          "arcs": [
+            [
+              [
+                46,
+                47,
+                48,
+                49,
+                50,
+                51,
+                52,
+                53,
+                54,
+                55,
+                56,
+                57
+              ],
+              [
+                58
+              ],
+              [
+                59
+              ]
+            ],
+            [
+              [
+                60
+              ]
+            ],
+            [
+              [
+                61
+              ]
+            ],
+            [
+              [
+                62
+              ]
+            ],
+            [
+              [
+                63
+              ]
+            ]
+          ],
+          "id": "09",
+          "properties": {
+            "name": "Burgos"
+          }
+        },
+        {
+          "type": "Polygon",
+          "arcs": [
+            [
+              64,
+              65,
+              -21,
+              66,
+              -23
+            ]
+          ],
+          "id": "10",
+          "properties": {
+            "name": "CÃ¡ceres"
+          }
+        },
+        {
+          "type": "MultiPolygon",
+          "arcs": [
+            [
+              [
+                67,
+                68,
+                69,
+                70,
+                71,
+                72
+              ]
+            ]
+          ],
+          "id": "11",
+          "properties": {
+            "name": "CÃ¡diz"
+          }
+        },
+        {
+          "type": "MultiPolygon",
+          "arcs": [
+            [
+              [
+                73,
+                74,
+                75,
+                76
+              ]
+            ]
+          ],
+          "id": "12",
+          "properties": {
+            "name": "CastellÃ³/CastellÃ³n"
+          }
+        },
+        {
+          "type": "MultiPolygon",
+          "arcs": [
+            [
+              [
+                77,
+                -27,
+                78,
+                79,
+                -1,
+                80
+              ]
+            ],
+            [
+              [
+                -25,
+                81
+              ]
+            ]
+          ],
+          "id": "13",
+          "properties": {
+            "name": "Ciudad Real"
+          }
+        },
+        {
+          "type": "MultiPolygon",
+          "arcs": [
+            [
+              [
+                82
+              ]
+            ],
+            [
+              [
+                -28,
+                -78,
+                83,
+                84,
+                85,
+                86
+              ]
+            ]
+          ],
+          "id": "14",
+          "properties": {
+            "name": "CÃ³rdoba"
+          }
+        },
+        {
+          "type": "MultiPolygon",
+          "arcs": [
+            [
+              [
+                87,
+                88,
+                89
+              ]
+            ],
+            [
+              [
+                90
+              ]
+            ]
+          ],
+          "id": "15",
+          "properties": {
+            "name": "A CoruÃ±a"
+          }
+        },
+        {
+          "type": "Polygon",
+          "arcs": [
+            [
+              -80,
+              91,
+              92,
+              93,
+              94,
+              95,
+              96,
+              97,
+              -2
+            ]
+          ],
+          "id": "16",
+          "properties": {
+            "name": "Cuenca"
+          }
+        },
+        {
+          "type": "MultiPolygon",
+          "arcs": [
+            [
+              [
+                98,
+                99,
+                -40
+              ]
+            ],
+            [
+              [
+                -44
+              ]
+            ],
+            [
+              [
+                100
+              ]
+            ]
+          ],
+          "id": "17",
+          "properties": {
+            "name": "Girona"
+          }
+        },
+        {
+          "type": "MultiPolygon",
+          "arcs": [
+            [
+              [
+                101,
+                -85,
+                102,
+                -6,
+                103,
+                -11,
+                104
+              ]
+            ]
+          ],
+          "id": "18",
+          "properties": {
+            "name": "Granada"
+          }
+        },
+        {
+          "type": "MultiPolygon",
+          "arcs": [
+            [
+              [
+                105,
+                106,
+                107,
+                108,
+                -94,
+                109
+              ]
+            ],
+            [
+              [
+                110
+              ]
+            ]
+          ],
+          "id": "19",
+          "properties": {
+            "name": "Guadalajara"
+          }
+        },
+        {
+          "type": "MultiPolygon",
+          "arcs": [
+            [
+              [
+                111,
+                112,
+                113,
+                114
+              ]
+            ]
+          ],
+          "id": "20",
+          "properties": {
+            "name": "Gipuzkoa"
+          }
+        },
+        {
+          "type": "Polygon",
+          "arcs": [
+            [
+              -30,
+              115,
+              -68,
+              116
+            ]
+          ],
+          "id": "21",
+          "properties": {
+            "name": "Huelva"
+          }
+        },
+        {
+          "type": "Polygon",
+          "arcs": [
+            [
+              117,
+              118,
+              119,
+              120
+            ]
+          ],
+          "id": "22",
+          "properties": {
+            "name": "Huesca"
+          }
+        },
+        {
+          "type": "Polygon",
+          "arcs": [
+            [
+              -81,
+              -7,
+              -103,
+              -84
+            ]
+          ],
+          "id": "23",
+          "properties": {
+            "name": "JaÃ©n"
+          }
+        },
+        {
+          "type": "Polygon",
+          "arcs": [
+            [
+              121,
+              122,
+              123,
+              124,
+              125,
+              126,
+              127,
+              128,
+              129
+            ],
+            [
+              130
+            ]
+          ],
+          "id": "24",
+          "properties": {
+            "name": "LeÃ³n"
+          }
+        },
+        {
+          "type": "MultiPolygon",
+          "arcs": [
+            [
+              [
+                131,
+                -120,
+                132,
+                -99,
+                -39,
+                133
+              ],
+              [
+                -46
+              ],
+              [
+                -45
+              ]
+            ],
+            [
+              [
+                -42
+              ]
+            ]
+          ],
+          "id": "25",
+          "properties": {
+            "name": "Lleida"
+          }
+        },
+        {
+          "type": "Polygon",
+          "arcs": [
+            [
+              -56,
+              134,
+              135,
+              136,
+              137
+            ],
+            [
+              -63
+            ],
+            [
+              -62
+            ]
+          ],
+          "id": "26",
+          "properties": {
+            "name": "La Rioja"
+          }
+        },
+        {
+          "type": "MultiPolygon",
+          "arcs": [
+            [
+              [
+                138,
+                -88,
+                139,
+                140,
+                -122,
+                141
+              ]
+            ]
+          ],
+          "id": "27",
+          "properties": {
+            "name": "Lugo"
+          }
+        },
+        {
+          "type": "MultiPolygon",
+          "arcs": [
+            [
+              [
+                142,
+                -110,
+                -93,
+                143,
+                -19
+              ],
+              [
+                -111
+              ]
+            ],
+            [
+              [
+                -17,
+                144
+              ]
+            ]
+          ],
+          "id": "28",
+          "properties": {
+            "name": "Madrid"
+          }
+        },
+        {
+          "type": "Polygon",
+          "arcs": [
+            [
+              -70,
+              145,
+              -86,
+              -102,
+              146
+            ]
+          ],
+          "id": "29",
+          "properties": {
+            "name": "MÃ¡laga"
+          }
+        },
+        {
+          "type": "MultiPolygon",
+          "arcs": [
+            [
+              [
+                -12,
+                -104,
+                -5,
+                -8,
+                147
+              ]
+            ]
+          ],
+          "id": "30",
+          "properties": {
+            "name": "Murcia"
+          }
+        },
+        {
+          "type": "MultiPolygon",
+          "arcs": [
+            [
+              [
+                148,
+                -115,
+                149,
+                -118,
+                150,
+                -136
+              ]
+            ],
+            [
+              [
+                151
+              ]
+            ],
+            [
+              [
+                152
+              ]
+            ]
+          ],
+          "id": "31",
+          "properties": {
+            "name": "Navarra"
+          }
+        },
+        {
+          "type": "Polygon",
+          "arcs": [
+            [
+              153,
+              -142,
+              -130,
+              154,
+              155
+            ]
+          ],
+          "id": "32",
+          "properties": {
+            "name": "Ourense"
+          }
+        },
+        {
+          "type": "MultiPolygon",
+          "arcs": [
+            [
+              [
+                156,
+                157,
+                -123,
+                -141
+              ]
+            ]
+          ],
+          "id": "33",
+          "properties": {
+            "name": "Asturias"
+          }
+        },
+        {
+          "type": "MultiPolygon",
+          "arcs": [
+            [
+              [
+                -125,
+                158,
+                -48,
+                159
+              ],
+              [
+                -61
+              ]
+            ],
+            [
+              [
+                -59
+              ]
+            ],
+            [
+              [
+                -60
+              ]
+            ],
+            [
+              [
+                -50,
+                160
+              ]
+            ],
+            [
+              [
+                161
+              ]
+            ],
+            [
+              [
+                162
+              ]
+            ]
+          ],
+          "id": "34",
+          "properties": {
+            "name": "Palencia"
+          }
+        },
+        {
+          "type": "MultiPolygon",
+          "arcs": [
+            [
+              [
+                163
+              ]
+            ],
+            [
+              [
+                164
+              ]
+            ],
+            [
+              [
+                -89,
+                -139,
+                -154,
+                165
+              ]
+            ],
+            [
+              [
+                166
+              ]
+            ]
+          ],
+          "id": "36",
+          "properties": {
+            "name": "Pontevedra"
+          }
+        },
+        {
+          "type": "Polygon",
+          "arcs": [
+            [
+              167,
+              168,
+              -14,
+              -66,
+              169
+            ]
+          ],
+          "id": "37",
+          "properties": {
+            "name": "Salamanca"
+          }
+        },
+        {
+          "type": "MultiPolygon",
+          "arcs": [
+            [
+              [
+                -124,
+                -158,
+                170,
+                171,
+                -51,
+                -161,
+                -49,
+                -159
+              ],
+              [
+                -163
+              ],
+              [
+                -162
+              ]
+            ],
+            [
+              [
+                172
+              ]
+            ]
+          ],
+          "id": "39",
+          "properties": {
+            "name": "Cantabria"
+          }
+        },
+        {
+          "type": "Polygon",
+          "arcs": [
+            [
+              173,
+              -58,
+              174,
+              -106,
+              -143,
+              -18,
+              -145,
+              -16
+            ]
+          ],
+          "id": "40",
+          "properties": {
+            "name": "Segovia"
+          }
+        },
+        {
+          "type": "Polygon",
+          "arcs": [
+            [
+              -116,
+              -29,
+              -87,
+              -146,
+              -69
+            ],
+            [
+              -83
+            ]
+          ],
+          "id": "41",
+          "properties": {
+            "name": "Sevilla"
+          }
+        },
+        {
+          "type": "Polygon",
+          "arcs": [
+            [
               -175,
               -57,
               -138,
@@ -348,628 +1224,6 @@
           "id": "38",
           "properties": {
             "name": "Santa Cruz de Tenerife"
-          }
-        }
-      ]
-    },
-    "autonomous_regions": {
-      "type": "GeometryCollection",
-      "geometries": [
-        {
-          "type": "MultiPolygon",
-          "arcs": [
-            [
-              [
-                77,
-                -27,
-                -26,
-                -25,
-                -24,
-                -67,
-                -20,
-                -144,
-                92,
-                109,
-                105,
-                106,
-                107,
-                108,
-                94,
-                95,
-                96,
-                97,
-                2,
-                3,
-                4,
-                5,
-                6,
-                80
-              ]
-            ],
-            [
-              [
-                110
-              ]
-            ]
-          ],
-          "id": "08",
-          "properties": {
-            "name": "Castilla-La Mancha"
-          }
-        },
-        {
-          "type": "MultiPolygon",
-          "arcs": [
-            [
-              [
-                182,
-                9,
-                7,
-                -4,
-                -3,
-                -98,
-                -181,
-                73,
-                74,
-                75
-              ]
-            ],
-            [
-              [
-                -182,
-                -96
-              ]
-            ]
-          ],
-          "id": "10",
-          "properties": {
-            "name": "Comunitat Valenciana"
-          }
-        },
-        {
-          "type": "MultiPolygon",
-          "arcs": [
-            [
-              [
-                70,
-                71,
-                72,
-                116,
-                -30,
-                -29,
-                -28,
-                -78,
-                -81,
-                -7,
-                -6,
-                103,
-                11,
-                12,
-                104,
-                146
-              ]
-            ]
-          ],
-          "id": "01",
-          "properties": {
-            "name": "AndalucÃ­a"
-          }
-        },
-        {
-          "type": "MultiPolygon",
-          "arcs": [
-            [
-              [
-                188,
-                -155,
-                129,
-                121,
-                122,
-                123,
-                158,
-                48,
-                160,
-                50,
-                51,
-                52,
-                53,
-                54,
-                55,
-                -138,
-                175,
-                -107,
-                -106,
-                -143,
-                18,
-                19,
-                20,
-                -66,
-                169
-              ],
-              [
-                16,
-                -145
-              ]
-            ],
-            [
-              [
-                61
-              ]
-            ],
-            [
-              [
-                62
-              ]
-            ],
-            [
-              [
-                63
-              ]
-            ],
-            [
-              [
-                161
-              ]
-            ],
-            [
-              [
-                162
-              ]
-            ]
-          ],
-          "id": "07",
-          "properties": {
-            "name": "Castilla y LeÃ³n"
-          }
-        },
-        {
-          "type": "MultiPolygon",
-          "arcs": [
-            [
-              [
-                23,
-                24,
-                25,
-                26,
-                27,
-                28,
-                29,
-                21,
-                64,
-                65,
-                -21,
-                66
-              ]
-            ]
-          ],
-          "id": "11",
-          "properties": {
-            "name": "Extremadura"
-          }
-        },
-        {
-          "type": "MultiPolygon",
-          "arcs": [
-            [
-              [
-                30
-              ]
-            ],
-            [
-              [
-                31
-              ]
-            ],
-            [
-              [
-                32
-              ]
-            ],
-            [
-              [
-                33
-              ]
-            ],
-            [
-              [
-                34
-              ]
-            ],
-            [
-              [
-                35
-              ]
-            ],
-            [
-              [
-                36
-              ]
-            ]
-          ],
-          "id": "04",
-          "properties": {
-            "name": "Illes Balears"
-          }
-        },
-        {
-          "type": "MultiPolygon",
-          "arcs": [
-            [
-              [
-                -75,
-                176,
-                177,
-                131,
-                -120,
-                132,
-                99,
-                40,
-                178
-              ]
-            ],
-            [
-              [
-                100
-              ]
-            ]
-          ],
-          "id": "09",
-          "properties": {
-            "name": "CataluÃ±a/Catalunya"
-          }
-        },
-        {
-          "type": "MultiPolygon",
-          "arcs": [
-            [
-              [
-                -130,
-                154,
-                155,
-                165,
-                89,
-                139,
-                140,
-                -122
-              ]
-            ],
-            [
-              [
-                90
-              ]
-            ],
-            [
-              [
-                163
-              ]
-            ],
-            [
-              [
-                164
-              ]
-            ],
-            [
-              [
-                166
-              ]
-            ]
-          ],
-          "id": "12",
-          "properties": {
-            "name": "Galicia"
-          }
-        },
-        {
-          "type": "MultiPolygon",
-          "arcs": [
-            [
-              [
-                -53,
-                -52,
-                -172,
-                186,
-                113,
-                114,
-                -149,
-                -135,
-                -55,
-                -54
-              ],
-              [
-                -173
-              ],
-              [
-                -64
-              ]
-            ]
-          ],
-          "id": "16",
-          "properties": {
-            "name": "PaÃ­s Vasco/Euskadi"
-          }
-        },
-        {
-          "type": "MultiPolygon",
-          "arcs": [
-            [
-              [
-                -109,
-                -108,
-                -176,
-                -137,
-                -151,
-                117,
-                118,
-                119,
-                -132,
-                -178,
-                -177,
-                -74,
-                180,
-                -97,
-                181,
-                -95
-              ],
-              [
-                -152
-              ],
-              [
-                -153
-              ]
-            ]
-          ],
-          "id": "02",
-          "properties": {
-            "name": "AragÃ³n"
-          }
-        },
-        {
-          "type": "MultiPolygon",
-          "arcs": [
-            [
-              [
-                134,
-                135,
-                136,
-                137,
-                -56
-              ],
-              [
-                -63
-              ],
-              [
-                -62
-              ]
-            ]
-          ],
-          "id": "17",
-          "properties": {
-            "name": "La Rioja"
-          }
-        },
-        {
-          "type": "MultiPolygon",
-          "arcs": [
-            [
-              [
-                -110,
-                -93,
-                143,
-                -19,
-                142
-              ],
-              [
-                -111
-              ]
-            ],
-            [
-              [
-                -17,
-                144
-              ]
-            ]
-          ],
-          "id": "13",
-          "properties": {
-            "name": "Comunidad de Madrid"
-          }
-        },
-        {
-          "type": "MultiPolygon",
-          "arcs": [
-            [
-              [
-                -12,
-                -104,
-                -5,
-                -8,
-                147
-              ]
-            ]
-          ],
-          "id": "14",
-          "properties": {
-            "name": "RegiÃ³n de Murcia"
-          }
-        },
-        {
-          "type": "MultiPolygon",
-          "arcs": [
-            [
-              [
-                148,
-                -115,
-                149,
-                -118,
-                150,
-                -136
-              ]
-            ],
-            [
-              [
-                151
-              ]
-            ],
-            [
-              [
-                152
-              ]
-            ]
-          ],
-          "id": "15",
-          "properties": {
-            "name": "Comunidad Foral de Navarra"
-          }
-        },
-        {
-          "type": "MultiPolygon",
-          "arcs": [
-            [
-              [
-                156,
-                157,
-                -123,
-                -141
-              ]
-            ]
-          ],
-          "id": "03",
-          "properties": {
-            "name": "Principado de Asturias"
-          }
-        },
-        {
-          "type": "MultiPolygon",
-          "arcs": [
-            [
-              [
-                -158,
-                170,
-                171,
-                -51,
-                -161,
-                -49,
-                -159,
-                -124
-              ],
-              [
-                -163
-              ],
-              [
-                -162
-              ]
-            ],
-            [
-              [
-                172
-              ]
-            ]
-          ],
-          "id": "06",
-          "properties": {
-            "name": "Cantabria"
-          }
-        },
-        {
-          "type": "MultiPolygon",
-          "arcs": [
-            [
-              [
-                189
-              ]
-            ]
-          ],
-          "id": "18",
-          "properties": {
-            "name": "Ciudad AutÃ³noma de Ceuta"
-          }
-        },
-        {
-          "type": "MultiPolygon",
-          "arcs": [
-            [
-              [
-                190
-              ]
-            ]
-          ],
-          "id": "19",
-          "properties": {
-            "name": "Ciudad AutÃ³noma de Melilla"
-          }
-        },
-        {
-          "type": "MultiPolygon",
-          "arcs": [
-            [
-              [
-                -72,
-                191
-              ]
-            ]
-          ],
-          "id": "20",
-          "properties": {
-            "name": "Gibraltar. Territorio no asociado a ninguna autonomÃ­a"
-          }
-        },
-        {
-          "type": "MultiPolygon",
-          "arcs": [
-            [
-              [
-                192
-              ]
-            ],
-            [
-              [
-                193
-              ]
-            ],
-            [
-              [
-                194
-              ]
-            ],
-            [
-              [
-                195
-              ]
-            ],
-            [
-              [
-                196
-              ]
-            ],
-            [
-              [
-                197
-              ]
-            ],
-            [
-              [
-                198
-              ]
-            ],
-            [
-              [
-                199
-              ]
-            ],
-            [
-              [
-                200
-              ]
-            ],
-            [
-              [
-                201
-              ]
-            ]
-          ],
-          "id": "05",
-          "properties": {
-            "name": "Canarias"
           }
         }
       ]
