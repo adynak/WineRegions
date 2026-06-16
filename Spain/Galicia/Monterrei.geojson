@@ -1,0 +1,32 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "ava_id": "rias_baixas",
+        "ava_id": "monterrei",
+        "name": "Monterrei",
+        "created": "2026-06-01",
+        "county": "Galicia",
+        "state": "Galicia",
+        "within": "Ourense",
+        "contains": "Monterrei",
+        "petitioner": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-7.58, 41.90],
+          [-7.32, 41.86],
+          [-7.26, 41.93],
+          [-7.28, 42.03],
+          [-7.46, 42.06],
+          [-7.62, 42.01],
+          [-7.60, 41.95],
+          [-7.58, 41.90]
+        ]]
+      }
+    }
+  ]
+}
