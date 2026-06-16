@@ -4534,10 +4534,10 @@
               "name": "Galicia",
               "state": "Galicia",
               "created": "",
-              "latitude": 42.878212,
-              "longitude": -8.54569,
-              "latSpan": 0.40381200000000206,
-              "lonSpan": 0.497962
+              "latitude": 42.5190,
+              "longitude": -8.9697,
+              "latSpan": 1.81,
+              "lonSpan": 1.97
             },
             {
               "id": 2,
