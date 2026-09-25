@@ -7,7 +7,7 @@
         "id": 40,
         "name": "Boulevardier",
         "category": "Bourbon",
-        "portions": 1,
+        "portions": "1",
         "ingredients": [
           {
             "id": 137,
@@ -27,7 +27,7 @@
         "id": 46,
         "name": "Old Pal",
         "category": "Bourbon",
-        "portions": 1,
+        "portions": "1",
         "garnishes": [
           {
             "id": 166,
@@ -53,7 +53,7 @@
         "id": 16,
         "name": "Orange Bourbon Sour",
         "category": "Bourbon",
-        "portions": 4,
+        "portions": "4",
         "ingredients": [
           {
             "id": 62,
@@ -77,7 +77,7 @@
         "id": 55,
         "name": "Paper Plane",
         "category": "Bourbon",
-        "portions": 1,
+        "portions": "1",
         "ingredients": [
           {
             "id": 191,
@@ -101,7 +101,7 @@
         "id": 53,
         "name": "Red Velvet",
         "category": "Bourbon",
-        "portions": 1,
+        "portions": "1",
         "ingredients": [
           {
             "id": 184,
@@ -125,7 +125,7 @@
         "id": 5,
         "name": "Whiskey Kiss",
         "category": "Bourbon",
-        "portions": 1,
+        "portions": "1",
         "ingredients": [
           {
             "id": 15,
