@@ -1,150 +1,150 @@
 [
   {
-    "id": "1",
+    "id": 1,
     "category": "Bourbon",
     "cocktails": [
       {
-        "id": "40",
+        "id": 40,
         "name": "Boulevardier",
         "category": "Bourbon",
-        "portions": "1",
+        "portions": 1,
         "ingredients": [
           {
-            "id": "137",
+            "id": 137,
             "name": "1 oz Bourbon"
           },
           {
-            "id": "138",
+            "id": 138,
             "name": "1 oz Carpano Antica"
           },
           {
-            "id": "139",
+            "id": 139,
             "name": "1 oz Campari"
           }
         ]
       },
       {
-        "id": "46",
+        "id": 46,
         "name": "Old Pal",
         "category": "Bourbon",
-        "portions": "1",
+        "portions": 1,
         "garnishes": [
           {
-            "id": "166",
+            "id": 166,
             "name": "1   Lemon Twist"
           }
         ],
         "ingredients": [
           {
-            "id": "163",
+            "id": 163,
             "name": "1 1/2 oz Bourbon"
           },
           {
-            "id": "164",
+            "id": 164,
             "name": "3/4 oz Dry Vermouth"
           },
           {
-            "id": "165",
+            "id": 165,
             "name": "3/4 oz Campari"
           }
         ]
       },
       {
-        "id": "16",
+        "id": 16,
         "name": "Orange Bourbon Sour",
         "category": "Bourbon",
-        "portions": "4",
+        "portions": 4,
         "ingredients": [
           {
-            "id": "62",
+            "id": 62,
             "name": "2 Cups Orange Juice"
           },
           {
-            "id": "63",
+            "id": 63,
             "name": "1/2 Cup Lemon Juice"
           },
           {
-            "id": "64",
+            "id": 64,
             "name": "1/4 Cup Sugar"
           },
           {
-            "id": "65",
+            "id": 65,
             "name": "1/2 Cup Bourbon"
           }
         ]
       },
       {
-        "id": "55",
+        "id": 55,
         "name": "Paper Plane",
         "category": "Bourbon",
-        "portions": "1",
+        "portions": 1,
         "ingredients": [
           {
-            "id": "191",
+            "id": 191,
             "name": "3/4 oz Amaro Nonino"
           },
           {
-            "id": "192",
+            "id": 192,
             "name": "3/4 oz Aperol"
           },
           {
-            "id": "193",
+            "id": 193,
             "name": "3/4 oz Bourbon"
           },
           {
-            "id": "194",
+            "id": 194,
             "name": "3/4 oz Lemon Juice"
           }
         ]
       },
       {
-        "id": "53",
+        "id": 53,
         "name": "Red Velvet",
         "category": "Bourbon",
-        "portions": "1",
+        "portions": 1,
         "ingredients": [
           {
-            "id": "184",
+            "id": 184,
             "name": "1 oz Bourbon"
           },
           {
-            "id": "185",
+            "id": 185,
             "name": "1/4 oz Falernum"
           },
           {
-            "id": "186",
+            "id": 186,
             "name": "2 oz Coconut Water"
           },
           {
-            "id": "187",
+            "id": 187,
             "name": "5 Dashes Peychaud's Bitters"
           }
         ]
       },
       {
-        "id": "5",
+        "id": 5,
         "name": "Whiskey Kiss",
         "category": "Bourbon",
-        "portions": "1",
+        "portions": 1,
         "ingredients": [
           {
-            "id": "15",
+            "id": 15,
             "name": "2 oz Pendelton Whiskey"
           },
           {
-            "id": "16",
+            "id": 16,
             "name": "1 oz B&B"
           },
           {
-            "id": "17",
+            "id": 17,
             "name": "1/2 oz Yellow Chartreuse"
           },
           {
-            "id": "18",
+            "id": 18,
             "name": "2 Dashes Whiskey Bitters"
           },
           {
-            "id": "19",
+            "id": 19,
             "name": "1/8 Tsp Lemon Juice"
           }
         ]
